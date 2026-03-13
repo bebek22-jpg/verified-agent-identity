@@ -3,7 +3,7 @@ name: Verify Human Identity
 on:
   workflow_dispatch:
     inputs:
-      agent_name:badak2212
+      agent_name:'badak2212'
         description: 'finder'
         required: true
         default: 'finder'
